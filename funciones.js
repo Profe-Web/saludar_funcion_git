@@ -7,7 +7,7 @@
  * @param {string} saludo2
  * @param {string} saludo
  * este saludo recoge el que envia la función
- * Se imprime en pantalla
+ * Se imprime en pantalla y un slaudo del mas boludo
  */
 function arranque() {
   //Enviando variable como parametro
